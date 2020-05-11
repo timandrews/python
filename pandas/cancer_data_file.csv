@@ -1,0 +1,53 @@
+Notes,Census Region,Census Region Code,State,State Code,Deaths,Population,Age Adjusted Rate,% of Total Deaths
+Total,,,,,2667956,5435162436,46.6,100.00%
+,Census Region 1: Northeast,CENS-R1,Connecticut,9,30927,63429895,40.2,1.20%
+,Census Region 1: Northeast,CENS-R1,Maine,23,16237,23679343,54.1,0.60%
+,Census Region 1: Northeast,CENS-R1,Massachusetts,25,55269,117417917,40.4,2.10%
+,Census Region 1: Northeast,CENS-R1,New Hampshire,33,12166,23376257,47.9,0.50%
+,Census Region 1: Northeast,CENS-R1,Rhode Island,44,9982,19032220,42.1,0.40%
+,Census Region 1: Northeast,CENS-R1,Vermont,50,6269,11179230,48.4,0.20%
+,Census Region 1: Northeast,CENS-R1,New Jersey,34,63443,156723850,36.2,2.40%
+,Census Region 1: Northeast,CENS-R1,New York,36,131025,347701337,33.9,4.90%
+,Census Region 1: Northeast,CENS-R1,Pennsylvania,42,130965,226130679,44.7,4.90%
+,Census Region 2: Midwest,CENS-R2,Illinois,17,104081,228380710,44,3.90%
+,Census Region 2: Midwest,CENS-R2,Indiana,18,70819,114662022,58.8,2.70%
+,Census Region 2: Midwest,CENS-R2,Michigan,26,94206,179183694,48.2,3.50%
+,Census Region 2: Midwest,CENS-R2,Ohio,39,128162,206876274,54.5,4.80%
+,Census Region 2: Midwest,CENS-R2,Wisconsin,55,49715,100757056,43.4,1.90%
+,Census Region 2: Midwest,CENS-R2,Iowa,19,34828,54246275,51,1.30%
+,Census Region 2: Midwest,CENS-R2,Kansas,20,30217,50386699,53.8,1.10%
+,Census Region 2: Midwest,CENS-R2,Minnesota,27,39305,93861342,39,1.50%
+,Census Region 2: Midwest,CENS-R2,Missouri,29,66723,105633794,55.9,2.50%
+,Census Region 2: Midwest,CENS-R2,Nebraska,31,19097,32353793,51.8,0.70%
+,Census Region 2: Midwest,CENS-R2,North Dakota,38,6449,12156945,43.1,0.20%
+,Census Region 2: Midwest,CENS-R2,South Dakota,46,8196,14407588,46.6,0.30%
+,Census Region 3: South,CENS-R3,Delaware,10,8249,15640370,47.8,0.30%
+,Census Region 3: South,CENS-R3,District of Columbia,11,2941,10828119,28.4,0.10%
+,Census Region 3: South,CENS-R3,Florida,12,192333,328334891,42.2,7.20%
+,Census Region 3: South,CENS-R3,Georgia,13,71579,167063038,51.2,2.70%
+,Census Region 3: South,CENS-R3,Maryland,24,40407,102114446,40.3,1.50%
+,Census Region 3: South,CENS-R3,North Carolina,37,87763,163900963,52.6,3.30%
+,Census Region 3: South,CENS-R3,South Carolina,45,43413,80182715,51.8,1.60%
+,Census Region 3: South,CENS-R3,Virginia,51,61517,139830305,45.8,2.30%
+,Census Region 3: South,CENS-R3,West Virginia,54,28652,32964738,68.8,1.10%
+,Census Region 3: South,CENS-R3,Alabama,1,51931,83992436,57.1,1.90%
+,Census Region 3: South,CENS-R3,Kentucky,21,54573,76515344,67.7,2.00%
+,Census Region 3: South,CENS-R3,Mississippi,28,30436,52679316,57,1.10%
+,Census Region 3: South,CENS-R3,Tennessee,47,68648,110926076,58.9,2.60%
+,Census Region 3: South,CENS-R3,Arkansas,5,33805,51117937,58.3,1.30%
+,Census Region 3: South,CENS-R3,Louisiana,22,36809,81497430,46.4,1.40%
+,Census Region 3: South,CENS-R3,Oklahoma,40,46528,65953258,65.5,1.70%
+,Census Region 3: South,CENS-R3,Texas,48,169631,433499543,47.5,6.40%
+,Census Region 4: West,CENS-R4,Arizona,4,55622,109148430,47.5,2.10%
+,Census Region 4: West,CENS-R4,Colorado,8,41475,87509259,54.8,1.60%
+,Census Region 4: West,CENS-R4,Idaho,16,13663,26805064,51.9,0.50%
+,Census Region 4: West,CENS-R4,Montana,30,12024,17390072,58.6,0.50%
+,Census Region 4: West,CENS-R4,Nevada,32,24256,45309193,60.1,0.90%
+,Census Region 4: West,CENS-R4,New Mexico,35,17745,35577733,48.8,0.70%
+,Census Region 4: West,CENS-R4,Utah,49,12745,47096459,37.2,0.50%
+,Census Region 4: West,CENS-R4,Wyoming,56,6073,9716887,62.5,0.20%
+,Census Region 4: West,CENS-R4,Alaska,2,3186,12361580,45.3,0.10%
+,Census Region 4: West,CENS-R4,California,6,244363,657416771,40,9.20%
+,Census Region 4: West,CENS-R4,Hawaii,15,6787,23815715,24.1,0.30%
+,Census Region 4: West,CENS-R4,Oregon,41,35668,67107832,47.1,1.30%
+,Census Region 4: West,CENS-R4,Washington,53,57053,117289596,48.8,2.10%
