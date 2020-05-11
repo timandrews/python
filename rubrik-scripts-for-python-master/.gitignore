@@ -1,0 +1,9 @@
+*.pyc
+venv
+*~
+.DS_Store
+.idea
+*.csv
+rubrik_host_registrations*
+DATAGEN*
+*.txt
