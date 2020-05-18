@@ -22,6 +22,5 @@ class TestFactorial(unittest.TestCase):
             factorial.my_factorial('a string')
             my_factorial(1.5)
 
-
 if __name__ == '__main__':
     unittest.main()
