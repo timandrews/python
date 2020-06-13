@@ -1,5 +1,5 @@
 from tkinter import *
-from PIL import ImageTk, Image
+from PIL import ImageTk, Image # PIL is the Pillow Image Library
 
 root = Tk()
 root.title('Images and icons')
